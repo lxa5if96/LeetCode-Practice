@@ -8,12 +8,12 @@ class Solution:
         l = len(nums)
         mx = nums[0]
         sum = 0
-        prefixGcd = [None]*l
+        prefixGcd = []
         for i in range(l):
             a = nums[i]
             mx = max(mx,nums[i])
             b = gcd(mx , nums[i])
-            prefixGcd[i] = b
+            prefixGcd.append(b)
         
         prefixGcd.sort()
         pl = len(prefixGcd)
