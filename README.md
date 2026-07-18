@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0268-missing-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0268-missing-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
