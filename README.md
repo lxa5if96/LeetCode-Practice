@@ -60,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1952-three-divisors) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
