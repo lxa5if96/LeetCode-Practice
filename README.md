@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
