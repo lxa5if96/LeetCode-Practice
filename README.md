@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2239-find-closest-number-to-zero) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0206-reverse-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
