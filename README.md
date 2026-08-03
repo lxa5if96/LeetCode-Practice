@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
