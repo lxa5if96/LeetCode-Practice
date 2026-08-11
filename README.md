@@ -150,4 +150,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0372-super-pow) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
