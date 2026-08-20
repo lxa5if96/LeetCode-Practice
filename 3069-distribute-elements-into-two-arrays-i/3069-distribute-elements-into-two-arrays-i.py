@@ -9,6 +9,4 @@ class Solution:
             else:
                 arr2.append(nums[i])
 
-        ans = arr1 + arr2
-
-        return ans
+        return arr1 + arr2
