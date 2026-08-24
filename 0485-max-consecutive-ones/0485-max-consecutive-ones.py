@@ -5,8 +5,9 @@ class Solution:
         for num in nums:
             if num == 1:
                 c += 1
-                m = max(m,c)
+                if c > m:
+                    m = c
             else:
                 c = 0
-                
+
         return m
