@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2029-stone-game-ix) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2239-find-closest-number-to-zero) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0268-missing-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -204,5 +206,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
