@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
