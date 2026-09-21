@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3524-find-x-value-of-array-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Game Theory
 |  |
 | ------- |
