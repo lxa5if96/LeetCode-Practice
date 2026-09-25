@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0169-majority-element) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3524-find-x-value-of-array-i) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
 |  |
