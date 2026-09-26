@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0486-predict-the-winner) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0169-majority-element) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
