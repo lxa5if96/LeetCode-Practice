@@ -1,12 +1,17 @@
 class Solution:
     def maxDepth(self, s: str) -> int:
-        ans = 0
+        ans = []
         c = 0
-        for ch in s:
-            if ch == "(":
+        max_depth = 0
+        for i in range(len(s)):
+            if s[i] == "(":
+                ans.append(s[i])
                 c += 1
-                ans = max(ans,c)
-            elif ch ==")":
-                c -= 1
                 
-        return ans
+                max_depth = max(c,max_depth)
+                
+            elif s[i] == ")":
+                ans.pop()
+                c -= 1
+            
+        return max_depth
