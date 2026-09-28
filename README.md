@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -268,4 +270,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
