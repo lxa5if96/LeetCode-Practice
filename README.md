@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
