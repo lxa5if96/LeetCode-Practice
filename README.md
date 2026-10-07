@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0058-length-of-last-word) |
+| [0301-remove-invalid-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
@@ -301,4 +302,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
