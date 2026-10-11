@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Linked List
 |  |
 | ------- |
