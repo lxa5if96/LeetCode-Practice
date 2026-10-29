@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting Sort
 |  |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0372-super-pow](https://github.com/lxa5if96/LeetCode-Practice/tree/master/0372-super-pow) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Euler's Totient Function
 |  |
 | ------- |
@@ -366,15 +370,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/lxa5if96/LeetCode-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -402,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/lxa5if96/LeetCode-Practice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/lxa5if96/LeetCode-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
